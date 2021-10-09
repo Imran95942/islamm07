@@ -1,7 +1,5 @@
 # taken from @zoldycktmbot
-
 TRUTH = (
-
     "Куда ты собрался?",
 
     "А? что? они ушли?",
