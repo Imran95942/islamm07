@@ -1,6 +1,6 @@
-from MashaRoBot import dispatcher
+# taken from @zoldycktmbot
 
-RUN_STRINGS = (
+TRUTH = (
 
     "Куда ты собрался?",
 
